@@ -8,6 +8,16 @@
 			"date": "niedziela, 6 czerwca 2021",
 			"file": "first",
 			"lang": ["pl", "en"]
+		},
+
+		{
+			"title": {
+				"pl": "Wszystko o nas",
+				"en": "All about company"
+			},
+			"date": "niedziela, 6 czerwca 2021",
+			"file": "about",
+			"lang": ["pl", "en"]
 		}
 	]
 }
