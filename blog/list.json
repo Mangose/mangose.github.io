@@ -3,11 +3,14 @@
 		{
 			"file": "first",
 			"date": "niedziela, 6 czerwca 2021",
+			"lang": ["pl", "en"]
+
 		},
 
 		{
 			"file": "about",
 			"date": "niedziela, 6 czerwca 2021",
+			"lang": ["pl", "en"]
 		}
 	]
 }

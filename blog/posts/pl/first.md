@@ -1,7 +1,5 @@
-[comment]: <> (title-pl: Pierwszy post)
-[comment]: <> (title-en: First post)
-[comment]: <> (lead-pl: This is only example page)
-[comment]: <> (lead-en: This is only example page)
+[comment]: <> (title: Pierwszy post)
+[comment]: <> (lead: This is only example page)
 [comment]: <> (image: https://via.placeholder.com/512)
 
 # Pierwszy testowy blog post
