@@ -1,23 +1,13 @@
 {
 	"posts": [
 		{
-			"title": {
-				"pl": "Pierwszy post",
-				"en": "First post"
-			},
-			"date": "niedziela, 6 czerwca 2021",
 			"file": "first",
-			"lang": ["pl", "en"]
+			"date": "niedziela, 6 czerwca 2021",
 		},
 
 		{
-			"title": {
-				"pl": "Wszystko o nas",
-				"en": "All about company"
-			},
-			"date": "niedziela, 6 czerwca 2021",
 			"file": "about",
-			"lang": ["pl", "en"]
+			"date": "niedziela, 6 czerwca 2021",
 		}
 	]
 }
