@@ -1,6 +1,10 @@
 {
 	"posts": [
 		{
+			"title": {
+				"pl": "Pierwszy post",
+				"en": "First post"
+			}
 			"date": "niedziela, 6 czerwca 2021",
 			"file": "first.md",
 			"lang": ["pl", "en"]
