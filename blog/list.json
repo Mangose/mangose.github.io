@@ -2,7 +2,8 @@
 	"posts": [
 		{
 			"date": "niedziela, 6 czerwca 2021",
-			"file": "first.md"
+			"file": "first.md",
+			"lang": ["pl", "en"]
 		}
 	]
 }
