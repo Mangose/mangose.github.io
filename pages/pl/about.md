@@ -9,10 +9,6 @@ Chcemy propagować pracę zdalną w modelu asynchronicznym. A dzięki naszej apl
 
 
 ## Nasz model pracy!
-Jesteśmy w 100% zdalną firmą, nasi pracownicy pochodzą z różnych zakątków świata. 
+Jesteśmy w 100% zdalną firmą, nasi pracownicy pochodzą z różnych zakątków świata. Działamy w modelu asynchronicznym więc nie posiadamy sztywnie ustalonych godzin pracy. Najważniejszy w naszej pracy jest efekt. Stawiamy na worklife balance.
 
-Działamy w modelu asynchronicznym więc nie posiadamy sztywnie ustalonych godzin pracy. Najważniejszy w naszej pracy jest efekt. Stawiamy na worklife balance.
-
-Uważamy, że praca nie jest miejscem do którego się udajemy, ale celami które wykonujemy. 
-
-Przy wykonywaniu naszych codziennych obowiązków staramy się ekologiczni, dlatego też zrezygnowaliśmy z papierowych umów, faktur itp. na rzecz cyfrowej rewolucji!
+Uważamy, że praca nie jest miejscem do którego się udajemy, ale celami które wykonujemy. Przy wykonywaniu naszych codziennych obowiązków staramy się ekologiczni, dlatego też zrezygnowaliśmy z papierowych umów, faktur itp. na rzecz cyfrowej rewolucji!
