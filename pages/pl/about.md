@@ -1,0 +1,1 @@
+Jestesmy w pełni zdalną firmą
