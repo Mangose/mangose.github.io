@@ -4,6 +4,7 @@
 
 Aplikacja przez miesiące się rozwijała, w pełnym momencie postanowiliśmy nie być egoistami i udostępnić ją innym zespołom takim jak my.
 
+
 ## Nasz misja
 Chcemy propagować pracę zdalną w modelu asynchronicznym. A dzięki naszej aplikacji jest to możliwe! 
 
