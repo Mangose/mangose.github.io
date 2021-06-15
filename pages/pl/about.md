@@ -1,4 +1,4 @@
-**Mangose** powstało jako poboczny projekt firmy produkującej gry komputerowe. Chcieliśmy narzędzie które zniweluje chaos w naszym wirtualnym biurze, chcieliśmy wszystkiego w jednej aplikacji. 
+**Mangose** powstało jako poboczny projekt firmy produkującej gry komputerowe i aplikacje mobilne. Chcieliśmy narzędzie które zniweluje chaos w naszym wirtualnym biurze, chcieliśmy wszystkiego w jednej aplikacji. 
 
 Aplikacja przez miesiące się rozwijała, w pełnym momencie postanowiliśmy nie być egoistami i udostępnić ją innym zespołom takim jak my.
 
