@@ -1,7 +1,7 @@
 # Changelog
 All notable changes to Mangose will be documented in this file.
 
-## [0.0.1] - 2020-01-1
+## [v0.0.1] - 2020-01-1
 ### Added
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 - Sed eu nibh dignissim, sodales justo ac, vulputate nunc.
