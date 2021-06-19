@@ -4,7 +4,9 @@
 
 Duża część naszych użytkowników poleca sobie naszą aplikację między sobą. Postanowiliśmy nagrodzić takie osoby i wprowadzić program partnerski. 
 
-Każdy użytkownik który poleci naszą aplikację za pomocą swojego linku otrzyma od nas prowizję w wysokości 25% wydanej kwoty. Dodatkowo użytkownik który kupuje aplikację dostanie zniżkę w wysokości 10%
+Każdy użytkownik który poleci naszą aplikację za pomocą swojego linku otrzyma od nas prowizję w wysokości 15% każdej wydanej kwoty (Tj, jeżeli użytkownik przez rok co miesiąc będzie przedłużał plan team, Ty co miesiąc będziesz otrzymywał prowizja za tego użytkownika). 
+
+**Dodatkowo użytkownik który kupuje aplikację z twojego linku polecającego dostanie zniżkę w wysokości 10%**
 
 ## Jak to działa?
 1. Wygeneruj swój osobisty link w swoim profilu użytkownika. 
