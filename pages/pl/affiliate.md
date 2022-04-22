@@ -1,8 +1,5 @@
 [comment]: <> (title: Program Partnerski)
-[comment]: <> (image: https://via.placeholder.com/512)
-[comment]: <> (lead: Polecaj Mangose i zarabiaj z nami!)
-
-### Powiedz o nas głośno i zarabiaj!
+[comment]: <> (lead: owiedz o nas głośno i zarabiaj!)
 
 Dobrem warto się dzielić, dlatego powiedz swoim znajomym i współpracownikom o Mangose, aby ich praca również była przyjemniejsza i bardziej efektywna. W ten sposób dołączysz do naszego Programu Partnerskiego i zaczniesz zarabiać. Jak to zrobić?
 
