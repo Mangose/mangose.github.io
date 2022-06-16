@@ -4,9 +4,7 @@
 
 These Terms set out the conditions of use and operation of the Mangose app – an app for managing tasks and projects and designed for mobile devices, and constitute regulations as defined by Art. 8 of the Act of 18 July 2002 on Providing Services by Electronic Means (Journal of Laws of 2019, item 123). The Terms set out the rights, obligations and responsibilities of the Members and the Administrator.
 
-**1**
-
-**Definitions**
+**§1 Definitions**
 
 1. The Owner of the app – MadDev Magdalena Borowska, hereinafter referred to as Mangose.
 2. The Mangose app – an app for electronic devices: phones, tablets, and computers, that is made available to Users for managing tasks, projects and teams
@@ -14,9 +12,7 @@ These Terms set out the conditions of use and operation of the Mangose app – a
 4. Account – individual access to the app
 5. Communication channel – the email address of the Owner of the app used to receive reports regarding the operation and functioning of the app.
 
-**2**
-
-**Introductory provisions**
+**§2 Introductory provisions**
 
 1. Mangose provides an app in which it is possible to manage tasks, projects and teams.
 2. The app allows the User to do the following:
@@ -29,9 +25,7 @@ These Terms set out the conditions of use and operation of the Mangose app – a
   3. Active time of the app
   4. User and transaction data in the case of a paid account;
 
-**3**
-
-**Obligations of Mangose**
+**§3 Obligations of Mangose**
 
 1. Providing the &quot;Mangose&quot; app for free download from the publicly available distribution channels appropriate for mobile apps.
 2. Maintaining the operational efficiency of the app to the extent necessary for its uninterrupted use.
@@ -40,9 +34,7 @@ These Terms set out the conditions of use and operation of the Mangose app – a
 5. Mangose shall not be held responsible for improper functioning of the app caused by force majeure or the deliberate actions of third parties, as well as when the improper functioning of the app results from its improper use.
 6. Mangose shall not be held responsible for the files shared by Users, including photos.
 
-**4**
-
-**Obligations of the User**
+**§4 Obligations of the User**
 
 1. The User undertakes to use the app in accordance with its intended purpose and with respect for the rights of the Owner of the app.
 2. All information sent via the app must comply with the law and good manners, and it is prohibited to use the app contrary to its intended purpose or in any other unlawful way, including misleading other users, spreading racist content or infringing the personal rights of third parties.
@@ -50,17 +42,13 @@ These Terms set out the conditions of use and operation of the Mangose app – a
 4. The user has the right to stop using the app at any time and for any reason. To stop using shall be understood as the removal of the app from the User&#39;s device.
 5. By using the app, you consent to receive commercial information via the app.
 
-**5**
-
-**Complaints and the procedure for handling them**
+**§5 Complaints and the procedure for handling them**
 
 1. All user complaints should be reported promptly to the owner of the app to the email address: hi@mangose.co.
 2. Depending on the complexity of the complaint, a response to it will be provided promptly, but no later than within 30 days of receipt of the report by the owner of the app.
 3. A complaint within the meaning of this paragraph is not the same as a global problem set out in section 3 item 4 of the Terms of Use.
 
-**6**
-
-**Personal data protection, privacy policy and intellectual property protection**
+**§6 Personal data protection, privacy policy and intellectual property protection**
 
 1. For the processing of personal data within the meaning of the Act of 10 May 2018 on the Protection of Personal Data (Journal of Laws of 2018, item 1000), in connection with the provision of services by electronic means, the provisions of the Act on Providing Services by Electronic Means shall apply.
 2. The data of the Users of the app are processed by hi@mangose.co.
@@ -77,9 +65,7 @@ These Terms set out the conditions of use and operation of the Mangose app – a
 
 **Detailed information on the processing of personal data can be found in the privacy policy available on the website of the app.**
 
-**14**
-
-**Final provisions**
+**§7 Final provisions**
 
 1. The Owner of the app reserves the right to make changes to the Terms for important reasons, that is: changes to the law, changes to the payment methods – insofar as these changes affect the implementation of the provisions of these Terms. The owner of the app will inform the users about each change at least 7 days in advance.
 2. In matters not covered by these Terms, the generally applicable provisions of Polish law shall apply, in particular: the Civil Code; the Act on Providing Services by Electronic Means of 18 July 2002 (Journal of Laws of 2002 No. 144, item 1204 as amended) and other relevant provisions of generally applicable law.
